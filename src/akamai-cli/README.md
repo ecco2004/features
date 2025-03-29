@@ -1,4 +1,4 @@
-
+"ghcr.io/devcontainers-extra/features/akamai-cli:1": {}
 # Akamai CLI (via Github Releases) (akamai-cli)
 
 Use Akamai CLI to configure Akamai platform and products directly from the command line. You can install ready-to-use product packages or build your own custom solutions to manage from CLI.
